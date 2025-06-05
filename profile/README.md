@@ -1,12 +1,14 @@
-## Hi there 👋
+# FOCUS
+## 
 
-<!--
+### Dashboard Design
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 기술 스택
+
+
+
+### 👥 Team Members
+| <img src="https://github.com/RohKJ.png" width="100px"> | <img src="https://github.com/owenminjong.png" width="100px"> | <img src="https://github.com/JoYerin1226.png" width="100px"> | <img src="https://github.com/ssoeun-y.png" width="100px"> | <img src="https://github.com/suwdle.png" width="100px"> |
+| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------: |
+|                   노경준 <br> `Backend`                   |                      정민종 <br> `Frontend`                     |                      조예린 <br> `Frontend`                     |                       천소은 <br> `AI`                       |                 송석준 <br> `ROS2 Pipeline`                |
